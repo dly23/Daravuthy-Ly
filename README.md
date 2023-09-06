@@ -1,2 +1,2 @@
 # Daravuthy-Ly
-a student who wants to learn
+# A student who wants to learn neural network 😁
